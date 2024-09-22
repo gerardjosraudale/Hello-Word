@@ -18,6 +18,6 @@ I created this to demostarte the use of VS Code, Github, and Python integrate to
 
 # Useful Websites
 
-* [Python](https://www.python.org/downloads/)
-* [Git](https://git-scm.com/)
+* [Python] (https://www.python.org/downloads/)
+* [Git] (https://git-scm.com/)
 * [Github] (https://docs.github.com/en/get-started)
