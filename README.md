@@ -8,7 +8,7 @@ I created this to demostarte the use of VS Code, Github, and Python integrate to
 
 
 
-[Software Demo Video](https://youtu.be/OGMrAnndznY)
+[Software Demo Video](https://youtu.be/n7NeF3ZKH1k)
 
 # Development Environment
 
